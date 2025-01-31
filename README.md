@@ -113,9 +113,8 @@ try:
     rect_heigh = float(input('Alto: '))
 except ValueError:
     # Captura de errores de conversión de entrada a float
-    raise ValueError ("Error: Las coordenadas y dimensiones deben ser números.")
-        
-````
+    raise ValueError ("Error: Las coordenadas y dimensiones deben ser números.")  
+``````
 
 
 
